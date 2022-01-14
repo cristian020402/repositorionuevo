@@ -8,7 +8,7 @@ package arrays34;
  *
  * @author crist
  ejercicio sobre arrays
- arrays23*/
+ arrays232424*/
 public class Arrays34 {
 
     /**
