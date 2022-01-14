@@ -7,7 +7,8 @@ package arrays34;
 /**
  *
  * @author crist
- ejercicio sobre arrays*/
+ ejercicio sobre arrays
+ arrays23*/
 public class Arrays34 {
 
     /**
